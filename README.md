@@ -4,10 +4,10 @@
 
 ## About Me
 
-- 🤖 J'aime en apprendre plus sur l'agroécologie et les systèmes durables.
-- 💻 J'explore de nouvelles technologies et outils collaboratifs.
-- 🤝 Je suis ouverte aux collaborations sur des projets à impact social et environnemental.
-- 💡 Dans mon temps libre, j'aime découvrir de nouvelles sources d'inspiration.
+- 🎓 Computer Science & Data Science student at TUD & Paris Cité.
+- 💻 Building full-stack web apps and machine learning models.
+- 💡 Interested in IT consulting, project management, and distributed architectures.
+- 🎯 Aiming for IT Business Engineering & Cloud/Data architecture.
 
 ## Techs I Use
 
@@ -18,6 +18,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
 </p>
